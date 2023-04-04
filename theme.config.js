@@ -1,10 +1,8 @@
-const YEAR = new Date().getFullYear()
-
 export default {
   footer: (
     <footer>
       <small>
-        <time>Last updated 4/9/23</time>
+        <time>Last updated 4/10/23</time>
       </small>
       <style jsx>{`
         footer {
