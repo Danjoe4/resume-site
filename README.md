@@ -9,6 +9,6 @@ If you'd like to use this library yourself:
 `npm i`
 `npm run dev`
 
-Then change the content in pages/index.mdx
+Then change the content in pages/index.mdx and theme.config.js
 
 Hosted at [daniel-broderick.com](daniel-broderick.com)
